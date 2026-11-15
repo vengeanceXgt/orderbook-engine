@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
-project(quadeye_orderbook LANGUAGES CXX)
+project(orderbook_engine LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)

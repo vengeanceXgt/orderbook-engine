@@ -7,7 +7,7 @@
 [![Tests](https://img.shields.io/badge/Tests-50%2C019%20Checks%20Passed-brightgreen.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
-> **Target Role:** Quadeye (Quantitative Trading / Low-Latency C++ / Algorithms & Systems)  
+> **Domain:** Low-Latency Systems / Quantitative Engineering & Matching Engine Architecture  
 > **Key Capabilities Demonstrated:** Deterministic price-time priority matching, strict $O(1)$ order cancellation via iterator locators, integer tick pricing without floating-point hazards, comprehensive invariant fuzzing, and nanosecond-scale benchmarking.
 
 ---
@@ -207,7 +207,7 @@ When discussing high-throughput matching engines in quantitative interviews:
 ## 📂 Project Structure
 
 ```
-quadeye-orderbook/
+orderbook-engine/
 ├── include/
 │   └── orderbook.hpp       # OrderBook, Order, Trade definitions & interfaces
 ├── src/
