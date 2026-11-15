@@ -1,0 +1,6 @@
+build/
+*.obj
+*.o
+*.exe
+.pytest_cache/
+.venv/
